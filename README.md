@@ -32,6 +32,11 @@ Out.ar(outBus, SoundIn.ar(0));
 *   Chorus knobs: control the parameters of the chorus applied to the signal
 ### Polyphonic - Monophonic button
 Allows the user select which algorithm will be employed to synthesise the octave-modified signals. When the switch is off the effect acts in Monophonic mode, delivering a more ”vintage” sound which mimics the one produced by classic analogue octaver pedals. The Polyphonic mode offers a less interesting and more ”pitch- shifting”-like digital sound, though it is able to handle chords.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/93470653/161559513-d7656ba8-4b27-4925-9434-5eedb0707ae2.png" width=60% height=60% centered>
+</p>
+
 #
 #
 ## 4. Implementation
